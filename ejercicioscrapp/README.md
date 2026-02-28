@@ -1,4 +1,4 @@
-# 🦈🦜 Fauna Marina de Galápagos — App interactiva
+#  Fauna Marina de Galápagos — App interactiva
 
 Visualiza y explora las listas de especies de **Peces** y **Aves** de Galápagos
 obtenidas directamente desde la Fundación Charles Darwin.
