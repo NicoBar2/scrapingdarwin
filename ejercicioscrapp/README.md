@@ -1,4 +1,4 @@
-#  Fauna Marina de Galápagos — App interactiva
+# Fauna Marina de Galápagos — App interactiva
 
 Visualiza y explora las listas de especies de **Peces** y **Aves** de Galápagos
 obtenidas directamente desde la Fundación Charles Darwin.
@@ -6,13 +6,17 @@ obtenidas directamente desde la Fundación Charles Darwin.
 ## Instalación y uso
 
 ```bash
-# 1. Instalar dependencias
+# 1. Clonar el repositorio
+git clone https://github.com/NicoBar2/scrapingdarwin.git
+cd scrapingdarwin/ejercicioscrapp
+
+# 2. Instalar dependencias (incluye flask, pandas, beautifulsoup4 y requests)
 pip install -r requirements.txt
 
-# 2. Ejecutar la app
+# 3. Ejecutar la app
 python app.py
 
-# 3. Abrir en el navegador
+# 4. Abrir en el navegador
 # → http://localhost:5000
 ```
 
